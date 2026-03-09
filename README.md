@@ -65,8 +65,8 @@
 
 <p align="center">
 
-<a href="[https://linkedin.com/](https://www.linkedin.com/in/felipe-alves-muniz-6abb1a257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/felipe-alves-muniz-6abb1a257" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:alvesmunizfelipe@gmail.com">
