@@ -54,10 +54,7 @@
 # 🐍 GitHub Contribution Snake
 
 <p align="center">
-
-![Snake animation](https://github.com/FelipeAlMuniz/fepa11/blob/output/github-contribution-grid-snake.svg)
-<img src="https://github.com/fepa11/fepa11/blob/output/github-snake.svg"/>
-
+<img src="https://raw.githubusercontent.com/FelipeAlMuniz/fepa11/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
