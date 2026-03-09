@@ -6,6 +6,7 @@
 📍 Universidade Nove de Julho  
 
 ☁️ **Cursando Pós-Graduação em Cloud & AI DevOps**
+📍 Universidade Impacta Digital  
 
 ---
 
