@@ -13,17 +13,11 @@
 
 # 🚀 Tecnologias e Ferramentas
 
+<h2 align="center"> Tech Stack</h2>
+
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,aws,terraform,docker,linux,bash,githubactions"/>
 
 </p>
 
@@ -31,19 +25,22 @@
 
 # 📊 Estatísticas GitHub
 
-  <img width="850" height="240" alt="image" src="https://github.com/user-attachments/assets/7aa2c64c-860f-43ea-8856-1752112ca12f" alt="Top Languages" height="180">
-  <img width="850" height="240" alt="image" src="https://github.com/leolimaferreira/galaxy-profile/blob/556117512527700d2d2eb040fe2f074a1bcda603/assets/generated/tech-stack.svg" alt="Top Languages" height="180">
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeAlMuniz&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeAlMuniz&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeAlMuniz&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeAlMuniz&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FelipeAlMuniz&theme=tokyonight)
+
+
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fepa11&theme=tokyonight"/>
-
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=FelipeAlMuniz&theme=tokyonight)
 ---
 
 # 🐍 GitHub Contribution Snake
