@@ -31,14 +31,9 @@
 
 # 📊 Estatísticas GitHub
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fepa11&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fepa11&layout=compact&theme=tokyonight"/>
-
+  <img width="850" height="240" alt="image" src="https://github.com/user-attachments/assets/7aa2c64c-860f-43ea-8856-1752112ca12f" alt="Top Languages" height="180">
+  <img width="850" height="240" alt="image" src="https://github.com/leolimaferreira/galaxy-profile/blob/556117512527700d2d2eb040fe2f074a1bcda603/assets/generated/tech-stack.svg" alt="Top Languages" height="180">
 </p>
-
 ---
 
 # 🔥 GitHub Streak
