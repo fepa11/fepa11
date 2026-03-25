@@ -11,7 +11,7 @@
 
 ---
 
-#  Tecnologias e Ferramentas
+#   Tecnologias e Ferramentas
 
 <h2 align="center"> Tech Stack</h2>
 
@@ -23,7 +23,7 @@
 
 ---
 
-# 📊 Estatísticas GitHub
+#  Estatísticas GitHub
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeAlMuniz&theme=tokyonight)
 
@@ -51,7 +51,7 @@
 
 ---
 
-# 🌐 Conecte-se comigo
+#  Conecte-se comigo 🌐
 
 <p align="center">
 
