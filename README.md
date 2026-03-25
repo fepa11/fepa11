@@ -3,7 +3,7 @@
 
 ---
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** na **Universidade Nove de Julho**
+  Formado em **Análise e Desenvolvimento de Sistemas** na **Universidade Nove de Julho 🎓**
 
   Cursando **Pós Graduação em Cloud & AI DevOps** na **Universidade Impacta Digital ☁️**
 
