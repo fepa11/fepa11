@@ -1,17 +1,17 @@
-<h1 align="center">Olá 👋, eu sou o Felipe Alves</h1>
+<h1 align="center">Olá, eu sou o Felipe Alves</h1>
 <h3 align="center">Bem vindo ao meu perfil!</h3>
 
 ---
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na **Universidade Nove de Julho**
 
-☁️ Cursando **Pós Graduação em Cloud & AI DevOps** na **Universidade Impacta Digital**
+  Cursando **Pós Graduação em Cloud & AI DevOps** na **Universidade Impacta Digital ☁️**
 
-🚀 Focado em **Cloud Computing | DevOps | Infraestrutura | Automação**
+  Focado em **Cloud Computing | DevOps | Infraestrutura | Automação**
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
+#  Tecnologias e Ferramentas
 
 <h2 align="center"> Tech Stack</h2>
 
@@ -38,12 +38,12 @@
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=FelipeAlMuniz&theme=tokyonight)
 ---
 
-# 🐍 GitHub Contribution Snake
+# GitHub Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FelipeAlMuniz/fepa11/output/github-contribution-grid-snake-dark.svg">
